@@ -1,0 +1,11 @@
+{
+  "name": "okcoders-spring-2018-week-01",
+  "version": "1.0.0",
+  "description": "Example code for Week 1",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
