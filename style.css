@@ -1,0 +1,24 @@
+body {
+	background-color: #3d3439;
+	margin: 0 auto;
+	font-family: "Helvetica", "Arial", sans-serif;
+	line-height: 1.5;
+
+}
+
+body p {
+	color: #cdd1c4;
+}
+
+header {
+	color: #e3e0dc;
+	background-color: #44737c;
+	padding: 2em;
+	text-align: center;
+}
+
+.main {
+	display: flex;
+	width: 100%;
+	min-height: 888px;
+}
